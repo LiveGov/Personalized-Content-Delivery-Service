@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">PersonalizationService</string>
+    <string name="my_places_unnamed_place">Unnamed Place</string>
+    <!--  Personalization Service -->
+    <string name="wifi_disabled_notification_title">Wifi is disabled</string>
+    <string name="wifi_disabled_notification_text">Please turn on wifi to receive personalized updates.</string>
+
+</resources>
